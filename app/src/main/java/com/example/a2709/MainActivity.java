@@ -113,6 +113,8 @@ public class MainActivity extends AppCompatActivity {
                 break;
         }
         textView.setText(result + "");
+
+        //test
     }
 
     public void acClick(View view) {
